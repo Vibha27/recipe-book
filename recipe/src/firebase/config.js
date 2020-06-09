@@ -2,7 +2,7 @@ import firebase from 'firebase';
 
 // Setting up firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyAj_2p6DPtrkxtQA30P1jlE-Qe3kXQHe_o",
+    apiKey: "YOUR API KEY",
     authDomain: "recipebook-f47dc.firebaseapp.com",
     databaseURL: "https://recipebook-f47dc.firebaseio.com",
     projectId: "recipebook-f47dc",
